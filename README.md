@@ -8,7 +8,6 @@
   <img height="160" src="d4d.gif" style="margin-right: 20px;" />
  <!-- <img height="160" src="lapwing.png" /> -->
 </p>
-
 <br clear="both">
 
 ---
