@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img height="160" src="d4d.gif" style="margin-right: 20px;" />
+  <img height="160" src="remielle-zzz.gif" style="margin-right: 40px;" />
  <!-- <img height="160" src="lapwing.png" /> -->
 </p>
 <br clear="both">
